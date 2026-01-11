@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title:
 ---
 
-Hello world!
-
-Write some words here!
+![[Pasted image 20260111051213.png]]
