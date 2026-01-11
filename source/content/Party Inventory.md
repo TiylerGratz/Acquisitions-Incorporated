@@ -1,0 +1,10 @@
+- 4 light crossbow 
+- 4 scimitar 
+- 1 shortbow 
+- 4 toe bones 
+- Skeleton skull with a marking of a dragon skull 
+- 3 fake healing potions 
+- 5 shitty maps (fake)
+- 4 silver necklaces (10 gp each)
+- 1 garnet worth 50 gp 
+- long sword (hilt looks like a skeletal hand and has a lot of skeleton motifs on it)

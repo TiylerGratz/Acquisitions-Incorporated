@@ -1,0 +1,8 @@
+- Omin Dran - CEO of Acq Inc 
+- Jim Darkmagic - Higher up at Acq Inc
+- Jerr - Gnome entrepreneur
+	- lil fuckhead scammed us and ran off like a pussy 
+	- will receive payback
+- Captian Truff - City guard who we talked to about the fissure 
+- Gorkoh - Goblin found hiding in cave (Tarp wanted to kill him because of racism)
+- Kal - Crazy old man who almost got kidnapped 
