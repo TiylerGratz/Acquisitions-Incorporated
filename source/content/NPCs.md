@@ -6,3 +6,6 @@
 - Captian Truff - City guard who we talked to about the fissure 
 - Gorkoh - Goblin found hiding in cave (Tarp wanted to kill him because of racism)
 - Kal - Crazy old man who almost got kidnapped 
+
+
+- [Hero](../static/Characters/Liri _ Roll20 Characters.html)
