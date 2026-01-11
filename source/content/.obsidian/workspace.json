@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "static/Characters/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPCs"
+              "title": "index"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs.md",
+                "file": "static/Characters/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NPCs"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs.md",
+                "file": "static/Characters/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NPCs"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs.md",
+                "file": "static/Characters/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NPCs"
+              "title": "Outline of index"
             }
           }
         ]
@@ -215,19 +215,34 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Characters",
-    "Liri _ Roll20 Characters.html",
+    "static/Characters/Liri _ Roll20 Characters_files/verify.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/underscore.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/underscore(1).js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/trolley-pink.png",
+    "static/Characters/Liri _ Roll20 Characters_files/simplemarkdown.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/sheet.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/sheet.css",
+    "static/Characters/Liri _ Roll20 Characters_files/shared-3cf1f56670d865069d5aa9a97edc5505.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/seedrandom.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/saved_resource",
+    "static/Characters/Liri _ Roll20 Characters_files/Roll20Characters-TopNav.jpg",
+    "static/Characters/Liri _ Roll20 Characters_files/roll20-logo.png",
+    "static/Characters/Liri _ Roll20 Characters_files/roll20-logo-new-light.svg",
+    "static/Characters/Liri _ Roll20 Characters_files/roll20-characters-logo-light.svg",
+    "static/Characters/Liri _ Roll20 Characters_files/polyfill.min.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/out-4.5.45.js.download",
+    "static/Characters/Liri _ Roll20 Characters_files/med.png",
+    "static/Characters/Liri _ Roll20 Characters_files/med.jpg",
+    "static/Characters/Liri _ Roll20 Characters_files/med(6).jpg",
+    "static/Characters/Liri _ Roll20 Characters_files/med(5).png",
+    "static/Characters/Liri _ Roll20 Characters_files/med(4).jpg",
+    "NPCs.md",
+    "static/Characters/index.md",
     "index.md",
-    "Images/Pasted image 20260111052553.png",
     "category-folder/index.md",
     "Session Notes/index.md",
     "Party Inventory.md",
-    "NPCs.md",
     "Session Notes/Session 1.md",
-    "category-folder/Some note.md",
-    "Session Notes",
-    "Images",
-    "Images/Pasted image 20260111051213.png",
-    "category-folder"
+    "category-folder/Some note.md"
   ]
 }
