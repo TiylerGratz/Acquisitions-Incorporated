@@ -1,0 +1,80 @@
+- We went to a conference room and a guy told us to go investigate some rift that opened
+	- Talked to Omin who gave us the job and left (he thinks we are great adventurers)
+		- The Waterdeep guard has tasked Acquisitions Inc to invesigate
+		- Some people went to investigate and disappeared 
+	- Jim Darkmagic then showed up and told us that we should just do the job
+- Tarp tried to get a loan from Liri but she doesn't trust him yet
+- Tarp was racially profiling Liri and thought she was a criminal (she would never)
+- We bought some "health" potions from a shady gnome (Jerr) who also agreed to give us information for pay 
+- The information was shit so Liri stole the money back 
+- We continued on and got surrounded by dude who tried to mug us ("Your money or your life")
+- The attackers are racially profiling Liri and keep trying to focus her
+- We done killed them and took the guys toes and head 
+- We went back to the gnome and the little bitch ran (we stole all his stand's shit)
+- We heard a scuffle and saw two people kidnapping an old man 
+- We saved the old man and he was kinda insane but then started saying some speech:
+	- Kal's Response: Kal's eyes come into focus and he becomes as sober as a priest of Ilmater at sunup. "Their plans are afoot," he whispers. "Their staff are ready. Their balance sheets are totaled, and that total is grim. They mean to bring the end of all things! You must seek the magic! Only you can stop them! Only you! You... are who again, sorry?"
+- We continue on towards the rift and see a drunk dude 
+- We talk to the city guard (Captain Truff) and say that we were sent to investigate
+- We signed as other people 
+	- Squinty Pip - Fish boy 
+	- "Great Maul" Mc Tickleton - Liri
+	- Ozgood the Ugly - Beef 
+- Learned the fissure opened during an earthquake and there are a bunch of tunnels down there down 
+- We go into the crack 
+- Tarp is racist and called giant rats Liri's "people"
+- Giant rats attack us and we kill them and the last one coughs up a finger with a platinum ring worth 20 gp
+	- etched inside the ring is the name "Burton Boot" (we are looking for "Yander Boot")
+- We continue onward down the tunnel 
+- We arrive at a room 
+- The room has pools of liquid that all look different and a big lock is on the door
+	- The lock is very fancy, there are runes on it 
+	- Drawings on the walls show robed figures submerging themselves in the pools 
+- Fish boy fully submerges himself in the pool, he feels like he's burning in acid
+	- He toughs it out and gains resistance to acid damage 
+- Liri tried and failed to pick the lock 
+	- Everyone but Liri turned into poison snakes and we had to fight 
+- Liri tried to pick it again and failed, everyone passed the save and didnt turn into snakes 
+- Liri picked the lock on the third try
+- We got into a hallway and Beef walked down it 
+- The hallway has a bunch of rune traps 
+- We break down the door and get attacked by a bunch of zombies 
+	- Beef goes down (Saves: 2 fail, 0 success)
+	- Liri fed him some of the shitty health potion and he got 1 hp (potion was diluted goodberry)
+- We kill all the zombies 
+	- They each have silver necklaces worth 10 gp 
+	- Got a healing potion and a spell scroll of Bless 
+- We continue onwards
+- We track boot prints through a maze of tunnels and were unable continue because of a cave in
+	- We clear the rubble and continue on 
+- We find a room that is filled with vines 
+	- We walk through (succeed on checks to make it through)
+- Find yet another passageway 
+	- The walls look worked on 
+	- There is a pit of acid on the floor 
+- We made it out of the maze Yipppee
+- We find a cavern with a bunch of webs 
+	- 5 web cocoons hang down (tampons)
+	- 2 of them look humanoid
+- We kill the spider and start opening the silk cocoons 
+	- One of them was a human man wearing a city watch uniform 
+	- The other was a kobold wearing traveler's clothes 
+- We took the spider's eyes and fangs and continue onto the next room 
+- In the next room we find a heap of bones and gear 
+- We find a goblin, Tarp thinks its evil because he is racist 
+	- Tarp was wrong and is an evil racist 
+- Liri tries to talk to the goblin 
+- The goblin (Gorkoh) claims to be a powerful wizard and wants us to leave him
+- Liri convinces Gorkoh that they are friendly
+- Gorkoh says that there is a big scary monster down the cave. The monster separated him and his friend 
+	- The monster is big and has tentacles and its long (10 feet)
+	- It has a lot of legs 
+- Gorkoh told us about some stalactites that could fall and do damage to the monster 
+- Liri sneaks ahead and sees a freaky ahh creature 
+- Beef makes a bunch of noise as the others are set up to ambush 
+	- Liri climbed up to the stalactites and put acid on them. She prepared to knock them down when the monster was below her
+	- The others prepared an attack 
+- The ambush worked and they killed the monster
+- We search the pile 
+	- find 47 gold, a probably magic longsword, a garnet worth 50 gp
+- LEVEL UP 
