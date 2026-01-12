@@ -1,7 +1,7 @@
 - The Lords Alliance: Political alliance/organization of nobles, knights, and other powerful individuals that hold sway in the major cities along the Sword Coast (e.g. Waterdeep, Neverwinter, Baldur’s Gate, etc.) 
 - The Emerald Enclave: Society of druids and rangers that act to protect nature against evil and the encroachment of civilization 
-- The Harper’s: A secretive group of agents that seek to stop evil plots across 
-- Faerun The Order of the Gauntlet: Order of paladins and clerics that crusade against evil The 
+- The Harper’s: A secretive group of agents that seek to stop evil plots across Faerun 
+- The Order of the Gauntlet: Order of paladins and clerics that crusade against evil The 
 - Zhentarim: International crime syndicate that remains somewhat secretive. Performs large amounts of arms/magic items smuggling, racketeering, theft, etc. 
 - Xanathar Guild: Crime syndicate within Waterdeep led by the infamous beholder Xanathar 
 - Acquisitions Incorporated: Adventuring company run by Omin Dran (you work for them) 
