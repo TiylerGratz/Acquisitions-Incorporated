@@ -123,3 +123,15 @@
 		- Learns two pieces of lore: 
 			- Name: Orrery of the Wanderer
 			- While the pieces can be separated, it has the ability to still rebuild itself 
+		- Tarp destroyed multiple library shelves and is now banned until he makes amends 
+- We head to Phandelin and go to meet up with Dabshabah again 
+- Find a lizardfolk who is being threatened 
+	- Tarp has not learned his lesson and is racist against the bugbear (character development down the drain)
+		- "Not a fan of bugbears"
+- Tarp is going to try and talk it out 
+	- They told him to "fuck off"
+	- They told him to walk away or face the wrath of the Zhentarim
+- They wanna fight
+	- Tarp obliterated the "black" one (the one in black leather but that's not how he worded it)
+	- We killed them without taking any damage
+- 

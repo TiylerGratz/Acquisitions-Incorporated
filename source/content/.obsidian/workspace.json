@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Party Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Party Inventory"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Party Inventory"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e5b3eda67425ba",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Session Notes/Session 2.md",
     "Party Inventory.md",
     "NPCs.md",
+    "index.md",
     "Session Notes/Session 1.md",
     "static/Characters/index.md",
     "static/Characters/Liri _ Roll20 Characters_files/verify.js.download",
@@ -226,7 +226,6 @@
     "static/Characters/Liri _ Roll20 Characters_files/med(6).jpg",
     "static/Characters/Liri _ Roll20 Characters_files/med(5).png",
     "static/Characters/Liri _ Roll20 Characters_files/med(4).jpg",
-    "index.md",
     "category-folder/index.md",
     "Session Notes/index.md",
     "category-folder/Some note.md"
