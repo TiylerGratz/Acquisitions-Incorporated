@@ -134,4 +134,26 @@
 - They wanna fight
 	- Tarp obliterated the "black" one (the one in black leather but that's not how he worded it)
 	- We killed them without taking any damage
-- 
+- Thetsis (lizardfolk) is the leader of their tribe 
+	- In their village they grow and harvest a specific type of algae for water breathing potions 
+	- Rasqel made a deal with them to buy the algae from them 
+	- Slowly over time they kept offering them less money and eventually started just giving them IOUs 
+	- When they got upset at it he threatened them and tried to force them to work for free
+- We continue onwards and find a naked man (possibly with a skin condition) holding a copper medallion of antlers with a weird voice. He doesn't look at us and speaks 
+	- "Fortune has strange and wonderful and terrible things in store for you. So I am here as fortune's lackey. Fair or foul? Weal or woe? Chant or howl? Friend or foe?"
+	- He has a riddle for us 
+		- If we answer correctly then fortune will favor us
+	- Notice that the medallion is a holy symbol of Beshaba, Goddess of Bad Luck 
+	- Interacting with agents of Beshaba is risky business, best chance of things going well is to answer the riddle 
+	- We decide to answer the riddle 
+	- "I stand aloof, alone as a savior. I shine my oily smile across the rippling vastness. I, with this beaming, attract and repel. Ignore me, and you are lost, one way or another. What am I?"
+	- The man accidentally reveals that we are sorta on point with our talk about the sun, moon, and a lighthouse 
+	- We guessed lighthouse and it was correct
+	- We feel a little luckier 
+	- We get a d10 to add to any ability check, attack roll, or saving throw (official party members only)
+- We continue onward 
+- Come across two dead horses, overturned cart, and arrows (similar to Lost Mines of Phandelver start situation)
+	- The goblins are dead and propped up, tied to trees to look like they are standing 
+- When Beef and Tarp approach the cart, the horses skeletons stand up and start attacking 
+- We kill them pretty easily 
+- We arrive in Phandelin 

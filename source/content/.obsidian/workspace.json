@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party Inventory.md",
+                "file": "Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Party Inventory"
+              "title": "Session 2"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party Inventory.md",
+                "file": "Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Party Inventory"
+              "title": "Session 2"
             }
           }
         ]
@@ -200,11 +200,11 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Session Notes/Session 2.md",
     "Party Inventory.md",
+    "Session Notes/Session 2.md",
     "NPCs.md",
-    "index.md",
     "Session Notes/Session 1.md",
+    "index.md",
     "static/Characters/index.md",
     "static/Characters/Liri _ Roll20 Characters_files/verify.js.download",
     "static/Characters/Liri _ Roll20 Characters_files/underscore.js.download",

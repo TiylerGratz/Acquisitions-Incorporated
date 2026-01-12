@@ -15,4 +15,6 @@
 - 5 shitty maps (fake)
 - broken magical clock thing
 - 6 rations
+- 1 cask of Luskan ice mead (worth 50 gp in Lusken, likely worth 200 gp (probably more) in a big city)
+- 
 

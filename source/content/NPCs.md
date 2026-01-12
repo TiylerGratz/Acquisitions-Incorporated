@@ -11,4 +11,6 @@
 - Dabshabah - Little brass dragon who got stuck; Was being hunted by a green dragon
 - Sergent Teeshe - one of the guards that went missing in the crack
 - Odis - "Drunk" halfling who helped us when we were getting fucked
+- Thetsis - Leader of a lizardfolk tribe in the Mere of Deadman 
+- Rasqel - Member of the Zhentarium who was trying to scam Thetsis out of their algae 
 - 
