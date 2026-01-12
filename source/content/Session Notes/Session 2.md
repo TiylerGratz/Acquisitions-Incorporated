@@ -89,4 +89,11 @@
 	- He wasn't actually drunk before
 	- Says that the thugs who attacked us were likely apart of the Xanathar Guild
 	- We show him the symbol on the skull and he doesn't know anything about it 
-	- 
+- Long rest wah fuckin hoo
+- We go to talk with Omin yet again 
+	- He talks about Phandelin 
+	- They said they gave a headquarters to a group there who missed their last payment
+	- He is tasking us with going and investigating the franchise 
+		- If they really fucked it we might be able to take over 
+	- He believes in us :)
+- 

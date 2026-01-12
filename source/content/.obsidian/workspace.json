@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Party Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Party Inventory"
             }
           }
         ],
@@ -201,9 +201,9 @@
   },
   "active": "35e5b3eda67425ba",
   "lastOpenFiles": [
+    "Session Notes/Session 2.md",
     "NPCs.md",
     "Party Inventory.md",
-    "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
     "static/Characters/index.md",
     "static/Characters/Liri _ Roll20 Characters_files/verify.js.download",

@@ -1,6 +1,6 @@
 - 16 light crossbow 
 - 17 scimitar 
-- 1 shortbow 
+- 1 short bow 
 - 3 maces
 - 3 heavy crossbows
 - 4 toe bones 
