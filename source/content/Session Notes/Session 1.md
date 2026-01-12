@@ -1,4 +1,4 @@
-- We went to a conference room and a guy told us to go investigate some rift that opened
+- We went to a conference room and a guy told us to go investigate some crack that opened
 	- Talked to Omin who gave us the job and left (he thinks we are great adventurers)
 		- The Waterdeep guard has tasked Acquisitions Inc to invesigate
 		- Some people went to investigate and disappeared 
