@@ -87,7 +87,7 @@
 - We find out that the halfling's name is Odis
 	- He says that he helped us because he was watching us and he works for an organization that likes to keep tabs on things and thwart evil plots in Waterdeep
 	- He wasn't actually drunk before
-	- Says that the thugs who attacked us were likely apart of the Xanathar Guild
+	- Says that the thugs who attacked us were apart of the Xanathar Guild (not sure if robbing us is part of something bigger or just robbing people)
 	- We show him the symbol on the skull and he doesn't know anything about it 
 - Long rest wah fuckin hoo
 - We go to talk with Omin yet again 
