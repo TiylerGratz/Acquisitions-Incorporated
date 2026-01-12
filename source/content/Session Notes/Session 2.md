@@ -155,5 +155,6 @@
 - Come across two dead horses, overturned cart, and arrows (similar to Lost Mines of Phandelver start situation)
 	- The goblins are dead and propped up, tied to trees to look like they are standing 
 - When Beef and Tarp approach the cart, the horses skeletons stand up and start attacking 
-- We kill them pretty easily 
+	- We kill them pretty easily
+	- The skin of the horses have the same symbol of the guy from before that tried to mug us
 - We arrive in Phandelin 
