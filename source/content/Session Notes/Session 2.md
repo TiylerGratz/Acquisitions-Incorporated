@@ -80,4 +80,13 @@
 - Captain Truff meets us outside it and said that we took 4 days to clear the place 
 - They take inventory of everything we got in there but do not take it 
 - A bunch of thugs show up and try to steal our shit 
+	- We are kinda getting fucked 
+	- The drunk halfling shows up with a hand crossbow
+	- Combat ended (We only won because of Tommy's mercy)
+- Teeshe died in the fight (RIP)
+- We find out that the halfling's name is Odis
+	- He says that he helped us because he was watching us and he works for an organization that likes to keep tabs on things and thwart evil plots in Waterdeep
+	- He wasn't actually drunk before
+	- Says that the thugs who attacked us were likely apart of the Xanathar Guild
+	- We show him the symbol on the skull and he doesn't know anything about it 
 	- 

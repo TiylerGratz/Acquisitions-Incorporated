@@ -3,9 +3,12 @@
 - Jerr - Gnome entrepreneur
 	- lil fuckhead scammed us and ran off like a pussy 
 	- will receive payback
+	- trying to get into the Zhentarim
 - Captian Truff - City guard who we talked to about the fissure 
 - Gorkoh - Goblin found hiding in cave (Tarp wanted to kill him because of racism)
 - Kal - Crazy old man who almost got kidnapped 
 - Caerhan Colesmith - Gorkoh's friend, dwarf
 - Dabshabah - Little brass dragon who got stuck; Was being hunted by a green dragon
 - Sergent Teeshe - one of the guards that went missing in the crack
+- Odis - "Drunk" halfling who helped us when we were getting fucked
+- 
