@@ -96,4 +96,30 @@
 	- He is tasking us with going and investigating the franchise 
 		- If they really fucked it we might be able to take over 
 	- He believes in us :)
-- 
+- Sold a bunch of our shit 
+- Got the sword and the clock identified
+	- The sword is a +1 longsword 
+	- The clock is "interesting"
+		- Magically repairs itself 
+		- Very powerful
+		- Seems to be missing components (6 spots around a hexagon where another piece would fit into it)
+		- Properties (when attuned): 
+			- +1 bonus to AC
+			- Proficiency in Arcana
+			- Can cast detect magic with it (1/day)
+			- Walking speed increases by 10 feet 
+		- Required a blood sacrifice (for detect magic)
+			- Have to use a bonus action to draw 1d4 damage worth of blood to use 
+		- Seems like it compels you to engage in planar travel 
+			- The more exciting and dangerous the better
+		- Slowly turns you chaotic neutral 
+		- If the missing components are found it will probably get stronger 
+- Tarp used to jump a lot 
+	- He jumped out of the plane of existence that he was in 
+	- Tarp likes oiled up feet flopping around 
+- Downtime (2 weeks)
+	- Liri went gambling and lost 30 gold
+	- Tarp went to research the clock thing more 
+		- Learns two pieces of lore: 
+			- Name: Orrery of the Wanderer
+			- While the pieces can be separated, it has the ability to still rebuild itself 

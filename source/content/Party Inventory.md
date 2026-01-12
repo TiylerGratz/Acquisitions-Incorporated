@@ -1,12 +1,10 @@
-- 16 light crossbow 
-- 17 scimitar 
-- 1 short bow 
-- 3 maces
-- 3 heavy crossbows
+- 191.5 GP
+- 2 light crossbow 
+- 2 scimitar 
+- 1 maces
+- 2 heavy crossbows
 - 4 toe bones 
 - Skeleton skull with a marking of a dragon skull 
 - 3 fake healing potions 
 - 5 shitty maps (fake)
-- 4 silver necklaces (10 gp each)
-- 1 garnet worth 50 gp 
-- 
+- broken magical clock thing
