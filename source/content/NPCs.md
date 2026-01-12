@@ -6,4 +6,6 @@
 - Captian Truff - City guard who we talked to about the fissure 
 - Gorkoh - Goblin found hiding in cave (Tarp wanted to kill him because of racism)
 - Kal - Crazy old man who almost got kidnapped 
-- Caerhan Colesmith - Gorkoh's friend 
+- Caerhan Colesmith - Gorkoh's friend, dwarf
+- Dabshabah - Little brass dragon who got stuck; Was being hunted by a green dragon
+- Sergent Teeshe - one of the guards that went missing in the crack

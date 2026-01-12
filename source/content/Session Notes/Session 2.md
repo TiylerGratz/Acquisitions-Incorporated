@@ -31,4 +31,53 @@
 - Tarp is racist yet again 
 	- Said that Liri would be familiar with the dimension of filth (likely because she is a raccoon)
 - We kill the tentacle and continue onward
-- 
+- We hear noises that sound like critters 
+	- Sounds like decent sized claws scratching against a rock
+	- Bigger than Liri, smaller than Beef 
+	- Snapping/Biting sounds (coming up empty)
+- See a little brass dragon stuck underneath some rocks trying to fend off the flying squid creatures 
+	- Combat with 2 dark mantles 
+	- They ink all over the place 
+- We killed the squids and helped the dragon out 
+- Dragon's name is Dabshabah
+	- Was being hunted by a "big scary green dragon" and fled to the tunnels 
+	- Got stuck 
+- She asked to come with us 
+	- We took a short rest to let her heal
+- Liri and Tarp each give the dragon one of their rations
+- We continue onto the next room 
+	- There is an alter against the far wall
+	- There is a big gear mechanism with a giant hammer 
+	- 20 foot tall room 
+	- On the floor near the alter is a golden device resembling a clock thing (orrery)
+	- The device is battered and falling apart 
+	- The corpse of a dwarf is next to it (Gorkoh's friend)
+	- The wall to the left of the alter, the wall is collapsed 
+	- A woman (wearing city guard uniform, Sergent Teeshe) stands facing the corner 
+		- She is likely not in control of her mental state (possession, mind control, etc)
+	- A lot of runes on the alter (probably related)
+		- The shrine doesn't seem to be connected to any well-known gods but seems to be related to destruction magic 
+	- The guard lady walked past Dabshabah a couple days ago and looked fine 
+- Gonna have Dabshabah try to sleep breath the Sergent Teeshe
+	- It worked and we took her weapons
+- Tarp goes to examine the dwarf's body and the hammer mechanism tries to swing at him 
+	- He dodges it but combat starts
+- Tarp greased himself up yet again (greasy greasy boy)
+- Dabshabah melts the hammer on the mechanism and ends the combat
+- Teeshe breaks out of her ropes and attacks 
+	- Gorkoh knocks her out (Yay Gorkoh)
+- Beef tried to grab the hammer from the alter and gets possessed 
+	- Dabshabah puts him to sleep 
+- Tarp and Liri try to break the alter 4 times and barely do shit
+	- Beef wakes up and is no longer possessed and smashed the shit out of it 
+- We wrap the broken clock thing in cloth and put it in our bag 
+- We started to head out of the caves and Teeshe woke up
+	- She doesn't remember anything past entering the caves 
+- Dabshabah started getting a headache 
+	- Waterdeep has an anti-dragon spell on it so Dabashah has to dig out separately 
+	- We agree to meet her outside the northern gate of the city 
+- We head back out of the hole 
+- Captain Truff meets us outside it and said that we took 4 days to clear the place 
+- They take inventory of everything we got in there but do not take it 
+- A bunch of thugs show up and try to steal our shit 
+	- 
