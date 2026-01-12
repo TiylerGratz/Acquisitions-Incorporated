@@ -1,0 +1,34 @@
+- Started by talking to Gorkho 
+	- His friend (Caerhan Colesmith) and him were traveling to find some sort of lost shrine thing to find a lost relic thing 
+	- Some sort of broken clock? 
+	- Trying to destroy the relic because it killed all of their party members 
+		- They dont know how, just think that it is evil and needs to be destroyed
+		- Party members got killed a couple weeks ago 
+	- He went down here a few days ago 
+- Tarp asked Gorkho to join us and is attempting to un-racist himself 
+	- Gorkho likes us 
+- Arrive at the next room 
+	- Big ol granite block is hung from the ceiling, it is carved into a foot
+	- There are runes on the walls of a bear footprint 
+	- There are rotting severed humanoid feet around the room, there is no blood 
+- There is apparently rumors about a serial killer in Waterdeep who takes peoples feet
+- Another pair of feet materialized into the room and fell into the pile 
+- We moved through the room and the feet attacked up 
+	- Tarp greased up the feet 
+- The big foot made of granite kicked Liri
+- We killed all the feet 
+- We find out that the runes are activated/deactivated by placing your foot into the rune 
+- We continue down the tunnels 
+	- Dirty brown water comes from pipes in the ceiling into a cesspool in the middle (sewage)
+- There was a random experiment that a lord of Waterdeep did
+	- They made a cesspool to drain into the plane of filth to get rid of the city's sewage
+		- The plan was abandoned but we don't remember why 
+- The water is rippling 
+	- The creature is big and round and long 
+- We throw a rope with some fabric on it to try fish for the fucker 
+- It is a big tentacle
+	- Combat time 
+- Tarp is racist yet again 
+	- Said that Liri would be familiar with the dimension of filth (likely because she is a raccoon)
+- We kill the tentacle and continue onward
+- 

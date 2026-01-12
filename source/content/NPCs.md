@@ -6,3 +6,4 @@
 - Captian Truff - City guard who we talked to about the fissure 
 - Gorkoh - Goblin found hiding in cave (Tarp wanted to kill him because of racism)
 - Kal - Crazy old man who almost got kidnapped 
+- Caerhan Colesmith - Gorkoh's friend 
