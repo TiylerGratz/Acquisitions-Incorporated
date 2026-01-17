@@ -16,4 +16,6 @@
 	- She is Sister Garaele 
 - We walk by the Sleeping Giant 
 	- It looks rundown as fuck 
-- 
+- We go to the manor 
+	- A lot of damage
+	- 
