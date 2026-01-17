@@ -18,4 +18,24 @@
 	- It looks rundown as fuck 
 - We go to the manor 
 	- A lot of damage
-	- 
+	- Numerous jackals roam around the courtyard area 
+	- They attack 
+	- One of the jackals was wearing a pouch 
+		- It had magic 
+		- Beef killed it in one hit (womp womp)
+		- None of us have good enough arcana to tell what was going on with it 
+	- They start to run (we dont chase)
+	- Beef opens the satchel and finds 50 gp and a potion of climbing 
+- We search the manor 
+	- Some newly built structures around (2 are standing, all have been struck by fire)
+	- Original stonework looks like its been crumbling for a while 
+	- New stonework that has been destroyed 
+	- Start digging through the rubble 
+		- Find human remains (snacked on by jackals)
+		- No intact bodies 
+		- A symbol in chalk that is written on the walls 
+			- Dran Enterprise Insignia 
+				![[Pasted image 20260117174113.png]]
+		- Find 70 rations, 2 explorers packs, 1 dungeoneer pack 
+		- We hear pained moaning from a pile of rocks(not the fun kind)
+		- 
