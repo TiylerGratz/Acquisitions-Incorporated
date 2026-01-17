@@ -13,4 +13,6 @@
 - Odis - "Drunk" halfling who helped us when we were getting fucked
 - Thetsis - Leader of a lizardfolk tribe in the Mere of Deadman 
 - Rasqel - Member of the Zhentarium who was trying to scam Thetsis out of their algae 
-- 
+- Harbin Wester - Racist jackass who thinks we are evil murderers based on our clothes; running for mayor of Phaldalin
+- Sildar Hallwinter - Mayoral candidate for Phandalin that isn't racist; Not very charismatic 
+- Halia Thornton - Woman that went missing in Phandalin; Caused changes in the government 

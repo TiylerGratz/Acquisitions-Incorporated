@@ -1,0 +1,7 @@
+- We enter Phandalin and see some sort of stage set up with a large group around it 
+- They are RACIST and say that we must be murderers based on just seeing us (apparently adventurers have not been good to this town)
+- They are debating for the spot of mayor
+- They finish up their debate and we go to find Sildar (the not racist one)
+	- We talk to him and he says how Harbin (the racist one) owns a lot of land in the area 
+	- Says how Halia went missing which caused the government to change to a council of 5 and a mayor 
+	- 
