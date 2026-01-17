@@ -15,4 +15,11 @@
 - Rasqel - Member of the Zhentarium who was trying to scam Thetsis out of their algae 
 - Harbin Wester - Racist jackass who thinks we are evil murderers based on our clothes; running for mayor of Phaldalin
 - Sildar Hallwinter - Mayoral candidate for Phandalin that isn't racist; Not very charismatic 
-- Halia Thornton - Woman that went missing in Phandalin; Caused changes in the government 
+- Halia Thornton - Woman that went missing in Phandalin; Caused changes in the government; Was in charge of the miners stuff
+- Sharna Quirstiron - Currently in charge of the mining operations in Phandalin 
+- Sister Garaele - The priestess of Tymora in Phandalin 
+
+
+# Gods 
+- Beshaba - Lady of Misfortune (Goddess of Bad Luck)
+- Tymora - Goddess of Luck 

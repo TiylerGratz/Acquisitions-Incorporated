@@ -1,7 +1,19 @@
-- We enter Phandalin and see some sort of stage set up with a large group around it 
+- We enter Phandalin (3rd week of employment) and see some sort of stage set up with a large group around it 
 - They are RACIST and say that we must be murderers based on just seeing us (apparently adventurers have not been good to this town)
 - They are debating for the spot of mayor
 - They finish up their debate and we go to find Sildar (the not racist one)
 	- We talk to him and he says how Harbin (the racist one) owns a lot of land in the area 
 	- Says how Halia went missing which caused the government to change to a council of 5 and a mayor 
-	- 
+	- The other Acq Inc franchise (Fellowship of the Golden Mongoose) moved in a while ago and were operating out of the Tresendar Manor 
+		- About a week ago seemed to be some sort of fight going on (explosions, fighting, etc) and the manor was up in flames 
+		- Didn't see who was fighting 
+		- The town is not very happy with adventures 
+		- He walked up there after a couple days and only found rubble, blood, scorch marks, and remnants of what they had been building 
+	- The mines are currently down because of monster attacks. Harbin likes to blame the monster attacks on adventurers 
+- We look at the Shrine of Luck 
+	- There is an elf priestess of Tymora inside 
+	- If we want good luck we pray to Tymora (casino time)
+	- She is Sister Garaele 
+- We walk by the Sleeping Giant 
+	- It looks rundown as fuck 
+- 
