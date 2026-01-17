@@ -18,6 +18,8 @@
 - Halia Thornton - Woman that went missing in Phandalin; Caused changes in the government; Was in charge of the miners stuff
 - Sharna Quirstiron - Currently in charge of the mining operations in Phandalin 
 - Sister Garaele - The priestess of Tymora in Phandalin 
+- Gildha Duhn - Half orc we found under the rocks in the manor; Was the Major Domo for the Fellowship of the Golden Mongoose; Expertise in running a business and bookkeeping 
+- Talanatha - Tiefling who was part of the Fellowship of the Golden Mongoose
 
 
 # Gods 

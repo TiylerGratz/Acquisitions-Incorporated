@@ -5,4 +5,7 @@
 - **The Zhentarim**: International crime syndicate that remains somewhat secretive. Performs large amounts of arms/magic items smuggling, racketeering, theft, etc. 
 - **Xanathar Guild**: Crime syndicate within Waterdeep led by the infamous beholder Xanathar 
 - **Acquisitions Incorporated**: Adventuring company run by Omin Dran (you work for them) 
+	- Fellowship of the Golden Mongoose: Group that was assigned to Phandalin; No longer exists
 - **Dran Enterprises**: Main rival of Acquisitions Incorporated, run by the Portentia Dran, Omin’s sister
+
+

@@ -37,5 +37,18 @@
 			- Dran Enterprise Insignia 
 				![[Pasted image 20260117174113.png]]
 		- Find 70 rations, 2 explorers packs, 1 dungeoneer pack 
-		- We hear pained moaning from a pile of rocks(not the fun kind)
-		- 
+		- We hear pained moaning from a pile of rocks (not the fun kind)
+			- A faily injured half orc (still alive somehow) was under the rocks 
+				- She is trying to say something but its incoherent 
+				- Medicine check: probably been stuck under the rocks for a week, very thirsty and hungry 
+				- Has something in her mouth 
+					- Device that looks like it is similar to the magic clock (one of the missing pieces)
+- We rest to give the half orc some time to get better 
+	- We talk to her 
+		- She was part of the Fellowship of the Golden Mongoose
+		- They were attacked in the middle of the night (fireball, weapons, etc)
+		- Saw one of the franchise members (Talanatha) use the Timepiece of Travel to teleport out
+		- The Timepiece of Travel was left behind 
+		- The half orc stuck the item in her mouth and then the building collapsed 
+- There is a staircase that goes to the basement 
+	- 

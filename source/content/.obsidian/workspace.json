@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "NPCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "NPCs"
             }
           },
           {
@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations.md",
+                "file": "Session Notes/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locations"
+              "title": "Session 3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,18 +199,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "ed6425e193dc6396",
   "lastOpenFiles": [
-    "Party Inventory.md",
+    "NPCs.md",
     "Session Notes/Session 3.md",
+    "Party Inventory.md",
+    "Factions.md",
     "Locations.md",
     "Pasted image 20260117174113.png",
     "Pasted image 20260117174104.png",
-    "NPCs.md",
     "Images/Pasted image 20260117170426.png",
     "Session Notes/Session 2.md",
     "conflict-files-obsidian-git.md",
-    "Factions.md",
     "Session Notes/Session 1.md",
     "index.md",
     "static/Characters/index.md",
