@@ -107,4 +107,13 @@
 		- Walls and supports are crumbling 
 		- Two wooden bridges go across a large crack in the floor 
 		- We search the room and some bugs crawl out of the crack and attack 
+		- The bug fuck our shit (Liri and Beef are fine) so we go long rest 
+- Continue further into the death room 
+	- First door 
+		- A table sits in the corner. Under it are some corpses that are naked except for colorful tights 
+			- Could potentially be circus performers or boxer (some sort of performer)
+			- They look decently strong
+			- Cause of death seems to be execution (neck sliced)
+		- On their chest is the dragon head symbol
+		- We burn the corpses and enter the room, some shadows enter from under another door 
 		- 

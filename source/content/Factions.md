@@ -7,5 +7,6 @@
 - **Acquisitions Incorporated**: Adventuring company run by Omin Dran (you work for them) 
 	- Fellowship of the Golden Mongoose: Group that was assigned to Phandalin; No longer exists
 - **Dran Enterprises**: Main rival of Acquisitions Incorporated, run by the Portentia Dran, Omin’s sister
+	![[Pasted image 20260117174113.png]]
 
 
