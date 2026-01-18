@@ -51,4 +51,36 @@
 		- The Timepiece of Travel was left behind 
 		- The half orc stuck the item in her mouth and then the building collapsed 
 - There is a staircase that goes to the basement 
-	- 
+	- We notice a weak spot in the wall (where the wall was badly bricked up)
+	- We open a door to a storage room 
+		- Glorkho notices that there are weird orange things that are set up to drop if you move the crates 
+		- We disarm the traps and search through the crates
+- We go into the room that was found past the bricks 
+	- There is a big pit in the floor
+	- Hanging from nooses about the pit are two humanoid figures; White clothes with a purple hood
+		- We throw a rock at one of the bodies 
+			- Nothing happened 
+		- No dust on the bodies 
+		- No rotting smell 
+		- Seem to be relatively new 
+		- Beef gets somewhat close and the body attacks 
+			- We kill them 
+			- There head is a large stone with the draconic symbol on it 
+			- Looks like there is a bunch of broken glass in the pit 
+- Liri looks at the next room and finds some smashed coffins and a small intact one; Humanoid bones are across the floor 
+	- The small intact one tries to attack Tarp when he opens it (mimic time)
+	- The bones start to rattle 
+	- We kill it (bro didnt even get a turn) and notice that there are wires that go to the bones that caused them to rattle 
+- There were two doors, one locked and another unlocked
+	- Liri picked the lock on the locked one and we found some cells 
+		- One dragonborn prisoner was dead 
+		- There are two half elf women in there who are weakly asking for help 
+			- We pick that lock and let them out 
+		- We give the women some food and water 
+			- Abella Splitfig (one of the half elves) says that they were visiting the manor 
+			- They collect herbs and spell components to sell
+			- They were coming to see if they could work out a deal with the franchise when they got attacked 
+				- They were trying to hide when the dragonborn found them 
+				- The dragonborn (Drahkso) refused to kill them so they were thrown in prison too 
+	- We opened the dragonborn door and it came alive and tried to kill us 
+		- 
