@@ -177,5 +177,11 @@
 	- Only one person had gone missing so the bodies were not from Phandalin
 	-  He doesnt know of any activity in the area from Dran Enterprise 
 - We go to Sister Garaele to try and identify the potions we got 
-- Liri gambles and makes 15 gp 
+- Liri gambles and makes 15 gp (downtime)
+- After a week, a magic letter flies to us
+	- Says good work for the investigation
+	- Seems the franchise is no longer operating so they will be sending out a representative to have us set up our own franchise here in Phandalin 
+	- They will negotiate a new deal with Harbin 
+	- Representative will deliver any other paperwork that is needed to get started 
+	- We have to pick our roles 
 - LEVEL UP
