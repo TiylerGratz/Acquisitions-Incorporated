@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29c694616052c559",
+  "active": "4bf3b08cdd09039c",
   "lastOpenFiles": [
-    "Session Notes/Session 3.md",
-    "Party Inventory.md",
     "NPCs.md",
+    "Party Inventory.md",
+    "Session Notes/Session 3.md",
     "Session Notes/Session 2.md",
     "Factions.md",
     "Locations.md",
