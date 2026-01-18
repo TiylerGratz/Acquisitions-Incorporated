@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions.md",
+                "file": "Session Notes/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Session 3"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "ed6425e193dc6396",
   "lastOpenFiles": [
+    "Session Notes/Session 2.md",
     "Session Notes/Session 3.md",
     "Party Inventory.md",
     "NPCs.md",
@@ -209,7 +210,6 @@
     "Pasted image 20260117174113.png",
     "Pasted image 20260117174104.png",
     "Images/Pasted image 20260117170426.png",
-    "Session Notes/Session 2.md",
     "conflict-files-obsidian-git.md",
     "Session Notes/Session 1.md",
     "index.md",

@@ -116,4 +116,50 @@
 			- Cause of death seems to be execution (neck sliced)
 		- On their chest is the dragon head symbol
 		- We burn the corpses and enter the room, some shadows enter from under another door 
-		- 
+		- We kill them but i HATE everything (Beef keeps beefing it beefily)
+		- Locked door in that room (fuck my life)
+			- Pick the lock 
+			- There is a bed and a desk in the room 
+			- Looks clean 
+			- Crumpled up pieces of paper under the desk 
+				- Covered in ink blots 
+				- Looks like it was under a piece of paper that was written on 
+				- "S— We have completed our work here. Omin's moppets have been defeated, although the half-orc and the tiefling escaped. We believe the former ran for the woods, which means she will be ours soon enough. The latter, we cannot locate. We could not find the timepiece either, and it is possible the tiefling took it with her. However, if its magic functions as erratically as does that of the far gear, there may be more searching to be done. Everything goes according to plan, and the manor should be free to claim. Loose ends are being tied up as I write this. I am, always, your obliging servant, Hoobur"
+				- At the bottom of the paper is the dragon head symbol 
+			- Secret door 
+				- Stairs going up back into the death room 
+	- Second Door
+		- A 5ft diameter circle of dark energy crackles in the corner 
+		- The walls are etched with runes written in blood and charcoal 
+		- The runes pulse at the same rhythm as the circle 
+		- Similar to runes in the death room 
+		- Some monster comes out of the circle of dark energy (portal)
+		- The creature looks like a giant pile of flesh with a bunch of eyes on it; Pulsing in the same way as the runes the the portal 
+		- We fight it
+			- We kill it 
+		- We scratch up the runes to close the portal 
+	- Third Door 
+		- Locked but Liri picked it 
+		- Try to peak it but it wont open (hitting something)
+		- Dabshabah and Beef force the door open 
+		- A stone grinding noise happen as they open the door 
+		- A stone statue of a kobold with no base was in front of the door
+		- Some undead birds come from under the bed and attack 
+			- They can turn things to stone (rip kobold)
+			- We killed them 
+		- Nothing except beds in the room 
+	- Hallway Time 
+		- Goes back to starting room 
+- Tarp shows minor signs of racism yet again. Said that Liri would be comfortable sleeping in the death room 
+- Something gross at the bottom of the water 
+	- Some sort of dead decaying creature
+	- We remove the creature and hopefully the water cycles to be clean again
+- We long rest
+- We go to leave below the manor
+- We come face to face with two hobgoblins 
+	- One wears an oversized tank on her back with a hose
+		- Acid was coming out of the tank 
+	- Both have the brand of Dran Enterprises 
+	- Tarp is racist yet again "They *would* hire hobgoblins"
+	- Tarp was punished for racism by being made BALD BALD
+	- 
