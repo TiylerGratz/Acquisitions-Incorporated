@@ -173,3 +173,8 @@
 		- 1 unidentified potion
 		- 2 spell scrolls 
 		- Acid spray gun (10 vials)
+- We head back into town and talk to Sildar 
+	- Only one person had gone missing so the bodies were not from Phandalin
+	-  He doesnt know of any activity in the area from Dran Enterprise 
+- We go to Sister Garaele to try and identify the potions we got 
+	- 
