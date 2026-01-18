@@ -83,4 +83,28 @@
 				- They were trying to hide when the dragonborn found them 
 				- The dragonborn (Drahkso) refused to kill them so they were thrown in prison too 
 	- We opened the dragonborn door and it came alive and tried to kill us 
+		- We kill it and loot the body 
+			- The body doesnt have anything of use on it 
+			- We search the room 4 plat coins (15 gp each)
+			- 3 glass vials 
+				- 2 potions of healing 
+				- 1 potion of animal friendship 
+- We head into the next room 
+	- We found a hallway with one door and a secret 
+	- Secret door
+		- A bunch of corpses 
+		- Runes on the wall that end abruptly 
+		- Room smells real bad 
+	- Pick the lock on the locked door 
+		- Small room is "breath takingly" empty
+- We go back into the death room 
+	- Liri looks at the runes
+		- The runes look like they are part of a ritual to open a portal (probably scary chaos dimension)
+	- Bodies were probably sacrificed to try and power the portal but something went wrong 
+		- Bodies seem to be about a week or so old 
+		- Hard to tell age because of them being consumed by the ritual 
+	- Continue onward into the death room 
+		- Walls and supports are crumbling 
+		- Two wooden bridges go across a large crack in the floor 
+		- We search the room and some bugs crawl out of the crack and attack 
 		- 
