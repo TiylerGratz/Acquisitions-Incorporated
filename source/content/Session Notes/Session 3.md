@@ -162,4 +162,14 @@
 	- Both have the brand of Dran Enterprises 
 	- Tarp is racist yet again "They *would* hire hobgoblins"
 	- Tarp was punished for racism by being made BALD BALD
-	- 
+	- Tarp wild magic casted confusion on himself 
+	- Beef gets downed
+	- Liri stabilized Beef 
+	- Loot the bodies 
+		- 4 long swords 
+		- 4 long bows 
+		- 100 gp 
+		- 4 potions of healing 
+		- 1 unidentified potion
+		- 2 spell scrolls 
+		- Acid spray gun (10 vials)
