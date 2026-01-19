@@ -23,8 +23,8 @@
 	- Gives us 1000gp for investigating what happened 
 		- 50% must go towards starting the franchise 
 - We run into the two half elves that we helped over by the Stonehill Inn
-- We recruit Abella and Ocheri into our organization 
-	- Abella is a healer (obviator)
+- We recruit Ebella and Ocheri into our organization 
+	- Ebella is a healer (obviator)
 	- Ocheri is a secretary 
 - 1 major domo 
 	- Gildha Duhn
@@ -52,7 +52,7 @@
 			- Shows people an actual healing potion and sleight of hand swaps it out for a fake one when giving it to them
 		- Minor benefit: Gain regulars who will come back later (1 advantage the next time Liri tries it)
 	- Continue building the company
-	- Abella and Tarp go build connections with the lizardfolk 
+	- Ebella and Tarp go build connections with the lizardfolk 
 		- Can buy for 50gp(or less) and sell other places for 100gp 
 			- If we spend some more (150gp) we can sell for about 500gp
 	- We buy 8 potions worth of reagent(600 gp)

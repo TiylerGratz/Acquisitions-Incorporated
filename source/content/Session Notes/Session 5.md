@@ -1,0 +1,8 @@
+- We head to Neverwinter
+- Tarp asks the Timepiece where Harbin's money is kept 
+	- Leads to the Hall of Justive in the Protector's Enclave 
+	- Big government building 
+	- Well protected, utilized as a bank 
+- Tarp is racist yet again 
+	- Wants to explode Gorkho even though he's done nothing wrong 
+- 

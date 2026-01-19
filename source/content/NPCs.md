@@ -20,7 +20,7 @@
 - Sister Garaele - The priestess of Tymora in Phandalin 
 - Gildha Duhn - Half orc we found under the rocks in the manor; Was the Major Domo for the Fellowship of the Golden Mongoose; Expertise in running a business and bookkeeping 
 - Talanatha - Tiefling who was part of the Fellowship of the Golden Mongoose
-- Abella Splintfig - One of the prisoners we found under the manor 
+- Ebella Splintfig - One of the prisoners we found under the manor 
 - Ocheri Splintfig - The other prisoner found under the manor 
 - Drahkso (dead) - Dragonborn who was a mercenary that was hired by some sort of goblin to attakc the Fellowship of the Golden Mongoose 
 - Viari - Representative from Aqc Inc

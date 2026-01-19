@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Party Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 4"
+              "title": "Party Inventory"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,18 +199,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2da016406ba0fab9",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Party Inventory.md",
-    "Session Notes/Session 5.md",
     "Session Notes/Session 4.md",
     "NPCs.md",
+    "Session Notes/Session 5.md",
+    "Images/Pasted image 20260117174104.png",
+    "Images/Pasted image 20260117174113.png",
+    "Locations.md",
+    "Party Inventory.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 2.md",
     "Factions.md",
-    "Locations.md",
-    "Pasted image 20260117174113.png",
-    "Pasted image 20260117174104.png",
     "Images/Pasted image 20260117170426.png",
     "conflict-files-obsidian-git.md",
     "Session Notes/Session 1.md",
