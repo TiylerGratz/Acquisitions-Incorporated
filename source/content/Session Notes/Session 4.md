@@ -48,6 +48,9 @@
 - We decide to hire Brawn(bandit stat block)
 - Have a bunch of downtime 
 	- Liri scams some people (100 gp profit)
+		- Sets up a shop selling fake healing potions and maps
+			- Shows people an actual healing potion and sleight of hand swaps it out for a fake one when giving it to them
+		- Minor benefit: Gain regulars who will come back later (1 advantage the next time Liri tries it)
 	- Continue building the company
 	- Abella and Tarp go build connections with the lizardfolk 
 		- Can buy for 50gp(or less) and sell other places for 100gp 
@@ -55,4 +58,15 @@
 	- We buy 8 potions worth of reagent(600 gp)
 	- We negotiate the price of the potion algae down to 40gp each 
 		- Buy 3(120gp)
-	- 
+	- Liri continues the scam (150 profit)
+		- Major benefit: Word is spreading about how good the business is (+2 to all checks next time Liri tries it)
+	- Team building
+		- Tarp, Beef, and Ocheri (Gorkoh is there but can't contribute)
+- We are a shining example of an Aqu Inc franchise and make 175gp
+- We got tasked with another job by Oman
+	- Oppal DeScart in Neverwinter secured some sort of treasure
+		- Typically in a tavern (The Stable Quiver)
+		- Shapeshifter
+		- Sus her out "That's a big henhouse"
+			- She will reply "Only to a small fox"
+			- Tell her "Move the cargo along the platinum road"
