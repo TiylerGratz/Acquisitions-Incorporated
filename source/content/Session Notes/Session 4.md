@@ -1,0 +1,58 @@
+- While Liri was gambling, Tarp went to investigate what happened in the mines
+	- Current problem with oozes 
+	- He then asked to talk to Sharna 
+		- She is annoyed
+		- For the past few months or so they have had some issues with a large number of oozes who have decided to make the mines their home (they like to eat miners)
+		- Monsters have invaded before but not oozes 
+- A few hours later we are visited by the Aqc Inc representative 
+	- Red flowing cape with bright orange hair 
+- His name is Viari 
+- He wants a name (oh shit)
+	- Decide on Sovereign's Gambit
+- He gives us a big contract to read through 
+	- Main Points 
+		- Monthly Fee: 350gp
+			- Aqc Inc will handle parts of the organization like staff, location, etc
+		- Franchise must pay for any hirelings beyond what Aqc Inc prvides
+			- 1 major domo 
+			- 1 skilled 
+			- 2 unskilled
+		- Aqc Inc will acquire ownership of the manor for us to use 
+		- They will also cover construction (its kinda destroyed at the moment)
+	- He also gives us our equipment
+	- Gives us 1000gp for investigating what happened 
+		- 50% must go towards starting the franchise 
+- We run into the two half elves that we helped over by the Stonehill Inn
+- We recruit Abella and Ocheri into our organization 
+	- Abella is a healer (obviator)
+	- Ocheri is a secretary 
+- 1 major domo 
+	- Gildha Duhn
+- 1 skilled 
+	- Ocheri Splintfig
+- 2 unskilled
+	- Gorkoh
+	- Brawn
+- We search for an additional unskilled person to hire for our franchise 
+	- 3 potential people
+	- Brawn McGable: Middle aged human, used to be a member of the Red Brands who used to occupy the manor, served his sentence, been able to get past his previous reputation  
+		- We interviewed him: not racist, good mustache, some experience
+	- Macklin Talctuft: Dwarf, big black beard, black mohawk with a bit of white at the top, was looking to find mining work in town and has been unsuccessful, bored with his current job, has some experience with mining and a little bit of managing (mining crew)
+		- Tarp doesnt like him cuz he's racist (he also thinks hair is ugly)
+		- He's apparently not gonna be able to deal with customers enough because he's a dwarf (according to the racist(Tarp) not Liri)
+		- Tarp saw him and thinks his hair isnt as ugly as he thought so he wants to interview him
+			- Interview: Not very good with customers, experience with construction and mining, not racist or sexist 
+	- Minghee Grayland: Daughter of the person that runs the Lionshield Coster, early 20s, been working at her mother's store but wants to branch out and do something different
+		- Interview: has a lot of customer experience, wants a promotion 
+- Tarp is trying to argue in the favor of racism 
+- We decide to hire Brawn(bandit stat block)
+- Have a bunch of downtime 
+	- Liri scams some people (100 gp profit)
+	- Continue building the company
+	- Abella and Tarp go build connections with the lizardfolk 
+		- Can buy for 50gp(or less) and sell other places for 100gp 
+			- If we spend some more (150gp) we can sell for about 500gp
+	- We buy 8 potions worth of reagent(600 gp)
+	- We negotiate the price of the potion algae down to 40gp each 
+		- Buy 3(120gp)
+	- 

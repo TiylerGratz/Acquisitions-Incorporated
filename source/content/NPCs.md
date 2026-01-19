@@ -23,6 +23,7 @@
 - Abella Splintfig - One of the prisoners we found under the manor 
 - Ocheri Splintfig - The other prisoner found under the manor 
 - Drahkso (dead) - Dragonborn who was a mercenary that was hired by some sort of goblin to attakc the Fellowship of the Golden Mongoose 
+- Viari - Representative from Aqc Inc
 
 
 # Gods 
