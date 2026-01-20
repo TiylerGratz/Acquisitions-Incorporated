@@ -5,4 +5,43 @@
 	- Well protected, utilized as a bank 
 - Tarp is racist yet again 
 	- Wants to explode Gorkho even though he's done nothing wrong 
-- 
+- We buy a Driftglobe and Horn of Blasting from a magic shop in Neverwinter
+- We then go to find the person at the tavern that we are searching for
+- Tarp asks the Timepiece Oppal's location and finds out that she is at the castle 
+	- We decide to wait 
+- Someone is staring at us
+	- Likely wants something we have or something we know 
+	- We go over to talk to her
+	- She looks suspicious 
+- Tarp immediately says who we are 
+- Her name is Moguhl and she says she wants to talk to us outside 
+	- She is also interested in finding Oppal
+- We talk to her for a bit and she tells us to come with her
+	- We say no and some bandits attack us
+	- We kill them pretty easily 
+- 5 scimitars 
+- 5 light crossbows 
+- 1 hand crossbow 
+- 1 short sword (piercer)
+- 23gp 
+- Spell scroll of distort value 
+- We find signs that they are part of the thieves guild 
+- She was apparently a wererat 
+- We talk to the bartender about it and give him 17gp for the trouble 
+- We also talk to the guards and they agree that it was self defense and let us go 
+- We had knocked one of the thieves out and buried him in the ground outside Neverwinter to interrogate him
+	- They were hoping we would have info on Oppal
+	- Oppal got arrested in the Neverwinter castle 
+	- Got arrested for murdering someone (she didn't do it)
+	- She was shape-changed into someone when that person did a murder so she got pinned for the crime 
+	- The person was an orc 
+		- Victim was some wealthy 
+	- They were trying to find her because she has worked with the Thieves' Guild to sell things without the authorities knowing about it (avoiding taxes)
+	- Were hoping to find out where she was keeping all that money 
+	- Prison is under the Neverwinter Castle
+		- The castle is under construction but the prison is still intact
+		- Typically holds the worst criminals (murderers, tax evaders, etc)
+	- Everyone in there is on death row 
+	- Executions are typically in the town square 
+	- A lot of people are at those executions
+- Execution is in three days
