@@ -45,3 +45,43 @@
 	- Executions are typically in the town square 
 	- A lot of people are at those executions
 - Execution is in three days
+- We go to the thieves guld
+	- Murderer: Gargak
+	- Hired by Zrhentaim
+	- Victim: Elf named Selanar Falaer
+	- Extorsion gone wrong
+	- As of 2 days he was still in the city
+		- They were at a warehouse outside the chasm 
+- Tarp uses the Timepiece to find where Gargak is, he is at the same warehouse still 
+- Liri tried to stealth look through the window and got seen 
+	- Some people came out of the warehouse and started to look for Liri 
+	- They found her but she managed to talk her way out of it by convincing them that she was not sent by anyone and was just curious and looking around (claimed that she grew up in the woods and didn't know that looking at other peoples' property was considered bad)
+- Used sending to talk to Oppal in prison
+	- Gargak is red and has a scar over his eye
+- We go talk to the guards to get permission to "talk" to the guy (likely will turn violent)
+- Get brought to talk to Captain Mordra
+- They deputize us and allow us to go check out the warehouse 
+	- They would prefer us killing less people 
+- Tarp is racist yet again 
+	- Wants Gargak to work for him because of "how he looks"
+- Tarp went to talk to them while Liri waited on a nearby roof
+	- He called Gargak ugly and a fight started
+- We captured Gargak and brought him into the city guard's interrogation area 
+	- His boss' name is Zarena 
+	- Doesn't know where she is going since the warehouse is down
+	- Zarena demanded that Selanar give them a cut of profits for protection and they didn't pay up
+	- The Zhentarim doesn't take kindly to people messing with them 
+- We go talk to the captain about how we caught the actual murderer
+	- We have to go talk to the magistrate about it 
+	- We go do that 
+	- Gargark confesses that it was him that did the crime 
+- Oppal gets released and we talk to her 
+	- There's a tiny problem (oof)
+	- Treasure is located in the vault of the Hall of Knowledge 
+	- She kept it there for safe keeping to make sure it wasn't on her
+	- She usually would shape change to pretend to be a clerk 
+	- It's in a book titled "A Late Person's Book of Common Knowledge"
+	- Under no circumstances should you open the book for your own safety 
+	- The vault is a pretty secure location with a really fancy lock 
+	- The leader is a cranky old elf
+- She leaves
