@@ -78,6 +78,8 @@
 - Oppal gets released and we talk to her 
 	- There's a tiny problem (oof)
 	- Treasure is located in the vault of the Hall of Knowledge 
+		- Temple to a knowledge god 
+		- First floor is accessible to the public
 	- She kept it there for safe keeping to make sure it wasn't on her
 	- She usually would shape change to pretend to be a clerk 
 	- It's in a book titled "A Late Person's Book of Common Knowledge"

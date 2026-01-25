@@ -1,0 +1,52 @@
+- We learn more about the Hall of Knowledge 
+	- The vault is called the Vault of Tomes 
+	- Vault is full of a lot of dangerous books 
+- We went to rest at an inn and then headed to the Hall of Knowledge 
+- We see someone who looks like he is probably the leader and he seems to be having an argument with a dwarf construction worker 
+	- Liri goes to sneak closer to hear what they are saying 
+	- The dwarf says shes done with this and she is leaving 
+	- She throws her tools at his feet and the construction people leave 
+		- She flips him off as well 
+- We decide to go chat with the construction workers 
+	- They gave an initial appraisal and later the guy kept having them redo stuff or adding things onto it 
+	- Her name is Kollette
+- We leave them and go back to the library 
+- We go to talk to the leader guy (Leithennson)
+	- He's a bitch 
+	- He glares at us 
+	- We mention how it looks like he is having a tough day 
+	- He is upset that he needs to find a new construction crew 
+	- We say that we could help him with that 
+		- They need to be somewhat respected 
+		- He gives us a general description of the work and how much they will be paid
+- We go to search for some more construction workers 
+	- There are many guilds to choose from, we pick one and go to see them 
+	- We find one guild that seems to be willing to negotiate to work for them 
+- We bring a representative back to Leithennson and they go to his office to negotiate 
+	- After a while they are done with their negotiations and they don't look too mad 
+	- They have managed to work out a deal 
+- We ask for access to the Vault of Tomes 
+	- We say that we are working for Acquisitions Incorporated and are researching a dangerous artifact 
+	- He believes us and we are given access to the Vault 
+- We go down to the Vault 
+	- Liri searches for the book Oppal was talking about while Tarp goes to look for information on the Timepiece
+	- Liri finds the book 
+	- Tarp finds the names of two other components
+		- Rotor of Return: seems to have the ability to teleport objects or allow the user to teleport
+		- Dimensional Loop: seems to allow the user to warp space (teleporting-ish wormhole shit)
+- We get the stuff and head out
+- We head back to Phandelin
+	- Oman was there and we gave him the book
+	- We finished the quest yippee
+- They are going to invest further in our franchise 
+	- We want more potion making stuff
+- Tarp asks Oman if they found the tiefling who teleported away 
+	- Another franchise has gone dark 
+	- They haven't found the tiefling woman
+	- They don't know anything about the dragon skull symbol
+- The Order of the Stout Half-Pint is the organization that has gone dark 
+	- Franchise of gnomes and halflings 
+		- Tarp is racist again (Gorkoh would be able to rule over them because he's also short)
+	- Oman wants us to look into this franchise 
+	- North of Neverwinter 
+- 
