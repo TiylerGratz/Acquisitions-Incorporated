@@ -8,5 +8,8 @@
 	- Fellowship of the Golden Mongoose: Group that was assigned to Phandalin; No longer exists
 - **Dran Enterprises**: Main rival of Acquisitions Incorporated, run by the Portentia Dran, Omin’s sister
 	![[Pasted image 20260117174113.png]]
-
+	- Luskan is where Dran Enterprise operates (main base)
+	- Their actual headquarters is a ship called the Maverick (moves around)
+	- A letter addressed to Sister Garaele which indicates that she is connected to Dran 
+- 
 

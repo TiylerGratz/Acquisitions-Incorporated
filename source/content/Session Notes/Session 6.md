@@ -49,4 +49,43 @@
 		- Tarp is racist again (Gorkoh would be able to rule over them because he's also short)
 	- Oman wants us to look into this franchise 
 	- North of Neverwinter 
+- Downtime 
+	- Tarp does an event and causes our monthly cost to reduce by 20% for two months 
+	- Liri does more shady business and makes another 100gp 
+		- Minor benefit: Word is spreading about how good the business is (+1 to all checks next time Liri tries it)
+	- Tarp and Liri to hire another person to make potions
+		- Karephek
+			- Bronze Dragonborn
+			- Couple years of alchemy experience
+			- Specializes in making helpful potions (climbing, jumping, speed, etc)
+		- Mirva
+			- Drow
+			- Was an alchemist for a couple years 
+			- Largely focused on making antidotes and antitoxins (and their counterparts)
+		- Nap 
+			- Small tabaxi 
+			- Makes a lot of sneaky potion (stealth advantage, invis, etc)
+	- We decided to hire Nap
+	- Tarp is trying to get more info on Dran Enterprise 
+		- Luskan is where Dran Enterprise operates (main base)
+		- Their actual headquarters is a ship called the Maverick (moves around)
+		- A letter addressed to Sister Garaele which indicates that she is connected to Dran 
+	- Liri, Beef, and Gorkoh attempt to kidnap Sister Garaele 
+		- Shady business practices (3 successes)
+		- We got her and no one knows 
+- We interrogate Sister Garaele
+	- The temple she runs used to be the only temple in town 
+	- The temple of the Coin Maiden opened up a few months ago 
+		- She was getting less donations because of this
+	- Got contacted by people asking if she can keep tabs on shady business in the area 
+		- She used to be a Harper so she had experience
+	- They paid her money and she gave them information 
+	- She reported stuff using letters 
+		- Letters would go to Bracus
+	- We make a deal with her that we will support her shrine for 20gp a month as long as she doesn't say anything
+		- We will let her go harm-free 
+		- She will stop working for Dran 
+		- We will promote her shrine
+- We let Sister Garaele go 
+- We sell 5 water breathing potions for 2500gp
 - 
