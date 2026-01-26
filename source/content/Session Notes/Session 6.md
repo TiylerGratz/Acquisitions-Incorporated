@@ -88,4 +88,5 @@
 		- We will promote her shrine
 - We let Sister Garaele go 
 - We sell 5 water breathing potions for 2500gp
+- We buy 16 more reagent for 1200
 - 

@@ -4,7 +4,7 @@ Cost: 520gp
 
 | Item                           | Amount | Base Cost | Revenue |
 | ------------------------------ | ------ | --------- | ------- |
-| Water Breathing Potion Reagent | 13     | 150gp     |         |
+| Water Breathing Potion Reagent | 17     | 150gp     |         |
 | Water Breathing Potion         | 0      |           | 500gp   |
 | Water Breathing Algae          | 1      | 40gp      | 100gp   |
 
