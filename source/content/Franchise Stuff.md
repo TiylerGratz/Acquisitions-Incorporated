@@ -6,7 +6,7 @@ Cost: 520gp
 | ------------------------------ | ------ | --------- | ------- |
 | Water Breathing Potion Reagent | 17     | 150gp     |         |
 | Water Breathing Potion         | 0      |           | 500gp   |
-| Water Breathing Algae          | 1      | 40gp      | 100gp   |
+| Water Breathing Algae          | 9      | 40gp      | 100gp   |
 
 ### Shady Business Practices 
 - Current Benefit: 

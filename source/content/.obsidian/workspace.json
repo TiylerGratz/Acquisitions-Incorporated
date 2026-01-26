@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f067eca6947f305d",
+  "active": "1298aac1bcd71a46",
   "lastOpenFiles": [
-    "Franchise Stuff.md",
     "Party Inventory.md",
+    "Franchise Stuff.md",
     "Session Notes/Session 6.md",
     "Factions.md",
     "Locations.md",
